@@ -1,0 +1,142 @@
+.weather {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+.tagline {
+  font-size: 10px;
+  font-weight: 300;
+  color: white;
+}
+.bg-body-tertiary {
+  background-color: #1e202b !important;
+}
+.nav-link.active {
+  border: #009ad8 solid 2px;
+  border-radius: 10px;
+  padding: 5px;
+  color: #009ad8 !important;
+  transition: 0.5s ease;
+}
+.nav-link:hover {
+  border: #009ad8 solid 2px;
+  color: #009ad8 !important;
+  border-radius: 10px;
+  padding: 5px;
+}
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
+    url("../images/clouds4-24-05-bishop.jpg");
+
+  background-color: center;
+  background-size: cover;
+  height: 100vh;
+z-index: -1;
+ 
+}
+
+.bg-black {
+  background-color: #009ad8 !important;
+}
+.form-control {
+  background-color: #1e202b !important;
+  border-radius: 20px;
+  padding: 10px 0px;
+  border-color: #1e202b;
+}
+:root {
+  --bs-border-color: #1e202b;
+  --bs-body-color:white
+
+}
+.form-control {
+  border-color: var(--bs-border-color);
+}
+.body {
+  background-color: #1e202b;
+  height: 300px;
+  width: 100%;
+  top: 75%;
+  left: 0px;
+
+ 
+}
+.footer {
+  background-color: #262936;
+  height: 300px;
+  width: 100%;
+  top: 100%;
+  left: 0px;
+z-index:1;
+}
+body{
+    color:white
+}
+.pp{
+    font-size: 8px;
+
+}
+.icons i{
+    color: #009ad8
+}
+.iconns{
+color:gray;
+font-size: 15px;
+}
+.city{
+    color:gray
+}
+.status{
+    color: #009ad8
+}
+.inner{
+   
+    background-color: #1e202b;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.day{
+    color:white;
+    background-color: #262936;
+    border-radius: 20px;
+   
+}
+.form-control {
+    color: var(--bs-body-color)
+}
+.outter{
+    background-color: #1e202b;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.avv{
+    background-color: #262936;
+}
+.dayy{
+    color:white;
+    background-color:  #262936;
+    border-radius: 20px;
+}
+.day3{
+  color:white;
+  background-color:  #1e202b;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.dayyy{
+  color:white;
+  background-color:   #1e202b;
+  border-radius: 20px;
+}
+.image{
+    top:15%;
+    left:65%;
+}
+.image2{
+    top:47%;
+    left:49%;
+}
+.image3{
+    top:47%;
+    left:77%;
+}
